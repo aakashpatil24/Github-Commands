@@ -1,0 +1,6 @@
+1) git init 
+2) git add ./Filename
+3) git status
+4) git commit -m "What is done by whom ?"
+5) git remote add origin https://github.com/aakashpatil24/Github-Commands.git
+6) git push -u origin master 
